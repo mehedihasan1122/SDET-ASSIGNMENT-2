@@ -9,7 +9,7 @@
 2. Give this Command `npm i`
 3. Add env file to project root
 4. Now hits the command to execute
-``` npm ```
+``` npm test```
 
 
 - Documentation for the API : [Documentation](https://documenter.getpostman.com/view/37977263/2sAXjRVUQF)
