@@ -14,7 +14,7 @@
 
 - Documentation for the API : [Documentation](https://documenter.getpostman.com/view/37977263/2sAXjRVUQF)
 - Test cases for this project : [Test Case](https://docs.google.com/spreadsheets/d/1fYltDNNyCvPHtYl4Gwhf5y84Dg5o1yKcf9rMq_6A7rc/edit?usp=sharing)
-- mBug Report for the Project : [Bug Report](https://docs.google.com/spreadsheets/d/1KtLsizRtG7af_xS2QSG6miYMX13_AnJ0PM6PeCqao28/edit?usp=sharing)
+- Bug Report for the Project : [Bug Report](https://docs.google.com/spreadsheets/d/1KtLsizRtG7af_xS2QSG6miYMX13_AnJ0PM6PeCqao28/edit?usp=sharing)
 
 
 ## Output
