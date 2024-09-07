@@ -1,5 +1,5 @@
 # Dmoney API Automation
-## Project Summary:  I have create a new user ,Login, search user ,Create User, Update User , Deposit, Sendmoney, Payment and Withdraw using CRUD operation.
+## Project Summary:  I have create a new user ,Login, Search user ,Update User , Delete user and Deposit, Sendmoney, Payment and Withdraw using CRUD operation. Testing All off feature Using Postman APT.
 ## Technologies I have used:
 - Postman
 - Newman
